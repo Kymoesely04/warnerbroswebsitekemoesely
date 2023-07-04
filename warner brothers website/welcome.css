@@ -1,0 +1,63 @@
+body {
+    background-image: url(IMAGES/ARRAYS/baby-driver-artwork-t0-2048x1152.jpg);
+    
+}
+
+
+.text{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    padding-bottom: 5%;
+    size: 500px;
+}
+h2{
+    font-size: medium;
+}
+.button{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    border-radius: 70px;
+    border: solid;  
+    text-decoration: none;
+    padding: 10px;
+    align-self: center;
+    text-align: center;
+    
+}
+.button:hover{
+    color: #50C8ED;
+    box-shadow: 0 0 5px #ffffff;
+    border-radius: 150px;
+
+}
+.logo{
+    width: 140px;
+    height: 125px;
+    padding-bottom: -10px;
+}
+h1{
+    font-size: 65px;
+    text-align: center;
+    padding-right: 60px;
+    padding-bottom: 10px;
+}
+.proceed{
+align-content: center;
+text-align: center;
+
+}
+
+.foreground{
+background-color: rgba(0, 0, 0, 0.801);
+height: 800px;
+width: 100%;
+padding-top: 10px;
+}
+
+.SOCIAL{
+    align-content: center;
+    text-align: center;   
+    padding-top: 45PX;
+}
